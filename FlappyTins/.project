@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>FlappyTins</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>res/Tin_Can.png</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Pictures/Tin_Can.png</locationURI>
+		</link>
+		<link>
+			<name>res/Tin_Can_LEFT.png</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Pictures/Tin_Can_LEFT.png</locationURI>
+		</link>
+		<link>
+			<name>res/Tin_Can_RIGHT.png</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Pictures/Tin_Can_RIGHT.png</locationURI>
+		</link>
+		<link>
+			<name>res/flappymenubg.png</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Pictures/flappymenubg.png</locationURI>
+		</link>
+	</linkedResources>
+</projectDescription>
