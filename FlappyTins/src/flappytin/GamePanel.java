@@ -31,6 +31,7 @@ public class GamePanel extends JPanel implements Runnable, KeyListener{
 	
 	public void tick() {
 		repaint();
+		gsm.tick();
 	}
 	
 	public void render() {
